@@ -7,7 +7,7 @@ cover: /media/bo-anh/nghe-thuat/tinh-gia-co-nhau.webp
 tags:
   - Ảnh ý tưởng
   - Con người
-giai_thuong: "Giải Nhất ảnh trắng đen — Liên hoan ảnh nghệ thuật truyền thống TP.HCM 2025 (Hoài niệm)"
+giai_thuong: "Huy chương Đồng VAPA — Ảnh nghệ thuật Quốc tế TP.HCM 2026 (Dream)"
 mo_ta: >
   Những khung hình dàn dựng trong studio và những gương mặt ngoài đời — về ký ức, áp lực, tuổi già và điều còn lại sau lớp kính vỡ.
 anh:
@@ -33,4 +33,7 @@ anh:
   - file: /media/bo-anh/nghe-thuat/the-thao-nghe-thuat-duong-pho.webp
     alt: "Người trượt ván giữa cú xoay, phơi sáng dài kéo chuyển động thành những vệt sáng uốn lượn xanh và cam trên nền đen"
     chu_thich: "Giải Khuyến khích — Festival Nhiếp ảnh trẻ 2025"
+  - file: /media/bo-anh/nghe-thuat/dream.webp
+    alt: "Người phụ nữ đứng giữa triền cỏ lúc bình minh, hai tay giơ cao, dải lụa trắng bay ngang khung hình trong nắng vàng và sương sớm"
+    chu_thich: "Huy chương Đồng VAPA — Cuộc thi Ảnh nghệ thuật Quốc tế TP.HCM lần IV, 2026"
 ---
