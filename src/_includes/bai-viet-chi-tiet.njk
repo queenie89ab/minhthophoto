@@ -2,6 +2,7 @@
 
 {% set mo_ta_seo = mo_ta %}
 {% set og_loai = "article" %}
+{% if anh_bia %}{% set og_anh = anh_bia | anhTuyetDoi(site.goc) %}{% endif %}
 
 {% block noi_dung %}
 <article class="section">

@@ -1,6 +1,7 @@
 ---
 tieu_de: Nhiếp ảnh Gia Lai ghi dấu ấn tại Cuộc thi Ảnh nghệ thuật Quốc tế TP.HCM lần thứ 4
 ngay: 2026-11-22
+anh_bia: /media/bai-viet/dream-og.jpg
 hien: true
 mo_ta: >
   Trong khuôn khổ Lễ hội Nhiếp ảnh Quốc tế TP.HCM lần thứ 3 — năm 2026, nghệ sĩ
